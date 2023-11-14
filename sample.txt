@@ -1,0 +1,13 @@
+Businesses use natural language processing (NLP) software and tools to simplify, automate, and streamline operations efficiently and accurately. We give some example use cases below. 
+
+Sensitive data redaction
+
+Businesses in the insurance, legal, and healthcare sectors process, sort, and retrieve large volumes of sensitive documents like medical records, financial data, and private data. Instead of reviewing manually, companies use NLP technology to redact personally identifiable information and protect sensitive data. For example, Chisel AI helps insurance carriers extract policy numbers, expiration dates, and other personal customer attributes from unstructured documents with Amazon Comprehend.
+
+Customer engagement
+
+NLP technologies allow chat and voice bots to be more human-like when conversing with customers. Businesses use chatbots to scale customer service capability and quality while keeping operational costs to a minimum. PubNub, which builds chatbot software, uses Amazon Comprehend to introduce localized chat functionality for its global customers. T-Mobile uses NLP to identify specific keywords in customers' text messages and offer personalized recommendations. Oklahoma State University deploys a Q&A chatbot solution to address student questions using machine learning technology.
+
+Business analytics
+
+Marketers use NLP tools like Amazon Comprehend and Amazon Lex to gain an educated perception of what customers feel toward a company's product or services. By scanning for specific phrases, they can gauge the customers' moods and emotions in written feedback. For example, Success KPI provides natural language processing solutions that help businesses focus on targeted areas in sentiment analysis and help contact centers derive actionable insights from call analytics.
